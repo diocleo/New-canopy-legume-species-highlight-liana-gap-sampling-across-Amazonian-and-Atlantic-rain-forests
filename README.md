@@ -1,1 +1,1 @@
-This is the aligment used for assess the phylogenetic position of Macropsychanthus rex
+This is the alignment used for assess the phylogenetic position of Macropsychanthus rex
